@@ -1,50 +1,53 @@
  <div align="center">
-    <font size="5px"> 
+    <p style="font-size:30px"> 
         Hey there I'm 
         <span style="color:#D46B23; font-weight:500 "  >Brian</span>.
-    </font> <br> 
-    <font size="3px" align="center"> 
+    </p> <br> 
+    <p style="font-size:15px" align="center"> 
         I appreciate the time you're taking to visit my page
-    </font> 
+    </p> 
  </div>
 
 ---
 
-<p>&nbsp;</p>
+&nbsp;
+
 <div align="center">
-    <font size="3px"> 
+    <p style="font-size:20px"> 
         Software Engineer in Atlanta, G.A.
-    </font>
+    </p>
     <p align="center">
 <a href="https://www.linkedin.com/in/brian-lara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/BrianDLara" target="_blank"> <img alt="Github" src="https://img.shields.io/badge/GitHub-%2320232a.svg?&logo=github&logoColor=white" /></a>
 </p>
 </div>
-
+&nbsp;
 <div align="center">
-<img src="images/img2.jpeg" alt="Brian as a contruction worker" align="center">
+<img src="images/banner-pic.jpeg" alt="Brian as a contruction worker" align="center">
 </div>
 
 ---
 
 <br>
 
-<font size="2px"> 
-<p align='center'>
+<div> 
+<p style="font-size:20px" align='center'>
 I’m a full-stack developer, with an endless creative mind and a passion to build things from scratch. 
 </p>
 <br><br>
-You never know what life will throw at you, and with all the ups and downs, becoming a U.S Citizen has created so many new opportunities for me. 
-<br><br> 
+<p style="font-size:15px">
+ One of my biggest achievements in life was becoming a U.S Citizen. This has opened so many doors and allowed me to pursue my dreams and passions. 
+<br>
 My previous career as a Commercial Roofing Forman, allowed me to develop skills in problem-solving and working collaboratively with teams in deadline-driven environments. 
-<br><br>
+<br>
 I am now excited to combine my technical and people skills to help tech companies and their engineering teams succeed.
-</font>
+</p>
+</div>
 
 ---
 
 <div align="center">
-<font size="3px">Technologies</font>
+<p style="font-size:30px">Technologies</p>
 
 &nbsp;
 
@@ -122,7 +125,7 @@ I am now excited to combine my technical and people skills to help tech companie
 &nbsp;
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianDLara&hide=stars&show_icons=true&theme=radical&card_width=400&custom_title=My Current Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianDLara&hide=stars&show_icons=true&theme=radical&card_width=400&custom_title=Stats" />
 </div>
 <p>&nbsp;</p>
 <div align="center">
