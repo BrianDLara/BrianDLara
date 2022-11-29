@@ -1,21 +1,14 @@
  <div align="center">
-    <p style="font-size:30px"> 
-        Hey there I'm 
-        <span style="color:#D46B23; font-weight:500 "  >Brian</span>.
-    </p> <br> 
-    <p style="font-size:15px" align="center"> 
-        I appreciate the time you're taking to visit my page
-    </p> 
- </div>
+					<h1>Hey there I'm Brian!</h1>
+					<h2> I appreciate the time you're taking to visit my page </h2>
+	</div>
 
 ---
 
-&nbsp;
-
 <div align="center">
-    <p style="font-size:20px"> 
+    <h3> 
         Software Engineer in Atlanta, G.A.
-    </p>
+    </h3>
     <p align="center">
 <a href="https://www.linkedin.com/in/brian-lara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/BrianDLara" target="_blank"> <img alt="Github" src="https://img.shields.io/badge/GitHub-%2320232a.svg?&logo=github&logoColor=white" /></a>
@@ -31,9 +24,9 @@
 <br>
 
 <div> 
-<p style="font-size:20px" align='center'>
+<h2 align='center'>
 I’m a full-stack developer, with an endless creative mind and a passion to build things from scratch. 
-</p>
+</h2>
 <br><br>
 <p style="font-size:15px">
  One of my biggest achievements in life was becoming a U.S Citizen. This has opened so many doors and allowed me to pursue my dreams and passions. 
@@ -44,10 +37,12 @@ I am now excited to combine my technical and people skills to help tech companie
 </p>
 </div>
 
+&nbsp;
+
 ---
 
 <div align="center">
-<p style="font-size:30px">Technologies</p>
+<h2>Technologies</h2>
 
 &nbsp;
 
@@ -125,7 +120,8 @@ I am now excited to combine my technical and people skills to help tech companie
 &nbsp;
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianDLara&hide=stars&show_icons=true&theme=radical&card_width=400&custom_title=Stats" />
+<h2>Github Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianDLara&hide=stars&show_icons=true&theme=radical&card_width=450&custom_title=Activities" />
 </div>
 <p>&nbsp;</p>
 <div align="center">
