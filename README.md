@@ -125,5 +125,5 @@ I am now excited to combine my technical and people skills to help tech companie
 </div>
 <p>&nbsp;</p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianDLara&layout=compact&theme=gotham&card_width=400&count_private" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianDLara&layout=compact&theme=gotham&card_width=400&count_private&langs_count=8" />
 </div>
