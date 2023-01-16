@@ -10,7 +10,6 @@
     </h3>
     <p align="center">
 <a href="https://www.linkedin.com/in/brian-lara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/BrianDLara" target="_blank"> <img alt="Github" src="https://img.shields.io/badge/GitHub-%2320232a.svg?&logo=github&logoColor=white" /></a>
 </p>
 </div>
 &nbsp;
